@@ -1,5 +1,10 @@
 {
+  "name": "automated-changelog",
+  "version": "0.0.1",
   "devDependencies": {
     "standard-version": "^4.3.0"
+  },
+  "scripts": {
+    "release": "standard-version"
   }
 }
