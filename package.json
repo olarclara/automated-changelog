@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "standard-version": "^4.3.0"
+  },
+  "scripts": {
+    "release": "standard-version"
   }
 }
